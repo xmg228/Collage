@@ -1,0 +1,5 @@
+models/
+results/
+runs/
+assets/
+**/__pycache__
